@@ -32,7 +32,7 @@ print('\n')
 for age in names_age.values():
     print(age)
 print('\n')
-for age in set(names_age.values()):  #set()函数去除重复元素
+for age in set(names_age.values()):  #set()函数去除重复元素！！
     print(age)
 print('\n')
 
